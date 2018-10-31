@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Single-Phase Voltage in Sweden is 230 V and the Three-Phase Voltage is 400 V. The Frequency is 50 Hz. Our React Native app works both in iOS and Android, it display the current power consumption on the three different phases i.e. L1, L2, L3.
+The Single-Phase Voltage in Sweden is 230 V and the Three-Phase Voltage is 400 V. The Frequency is 50 Hz. Our React Native app works both in iOS and Android, it display the current power consumption on the three different phases i.e. L1, L2 and L3.
 
 This app is a template app that we use in our [himinds-iot-project](https://github.com/HiMinds/himinds-iot-project-overview).
 
@@ -12,13 +12,13 @@ This app is a template app that we use in our [himinds-iot-project](https://gith
 * [Expo](https://expo.io/)
 * [Firebase](https://firebase.google.com/)
 * [NativeBase](https://nativebase.io/)
-* [React Navigation] (https://reactnavigation.org/)
-* [React Native Speedometer Chart] (https://github.com/LucasMonteiro1/react-native-speedometer-chart)
+* [React Navigation](https://reactnavigation.org/)
+* [React Native Speedometer Chart](https://github.com/LucasMonteiro1/react-native-speedometer-chart)
 
 ## Learning resources:
 
 * [Facebook React Native](https://facebook.github.io/react-native/docs/getting-started.html)
-* [React Native Express] (http://www.reactnativeexpress.com/)
+* [React Native Express](http://www.reactnativeexpress.com/)
 * [Expo.io docs](https://docs.expo.io/versions/latest/)
 * [Expo Blog](https://blog.expo.io/)
 
